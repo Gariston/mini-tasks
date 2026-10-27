@@ -1,6 +1,6 @@
 # Mini Tasks — Práctica DWES
 
-Proyecto individual desarrollado según los requerimientos de las sesiones 1, 2 y 3 aplicando TDD con Spring Boot.
+Proyecto individual.
 
 ## Estructura y desarrollo
 
